@@ -1,0 +1,21 @@
+main shit / algorithm
+my typa recipe
+
+->structs
+	1-struct for book detail
+	2-struct for date n crap
+
+-> make struct array for different entities 
+
+-> enter book information
+
+-> delete book info
+
+-> sort book on basis of price {try linear sort or built function}
+
+-> search book enter aurthor name then boom you will get issuance date and shit {wtf}
+
+-> average cost??? srsly?
+
+-> exit
+bc ye to final year project ha 
